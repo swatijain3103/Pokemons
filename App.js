@@ -32,7 +32,7 @@ function App() {
     <div className="App">
      
       <input type="text" placeholder="Pokemon Name" onChange={(event) => {setPokemonName(event.target.value) }}></input>
-      <button>🔍</button>
+      <button>Search</button>
       
       <div className="search">
         <SearchIcon onClick={searchPokemon}></SearchIcon>
