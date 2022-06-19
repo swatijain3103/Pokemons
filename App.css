@@ -1,0 +1,32 @@
+.form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 3rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.search{
+  
+  width:170.4px;
+  height:44px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+  margin:8px 8px;
+  padding:0px;
+}
+button {
+  border: none;
+  background-color: white;
+}
+
+
+
